@@ -13,8 +13,11 @@ attention to spatial issues in urban analyses as well as the increasing accessib
 Priority for enrollment is given to Urban Studies majors and upper-level students.
 
 In both geographic and non-geographic analysis, the course will focus on:
+<br>
 ● Theory: Spatial Intelligence and Data Acquisition;
+<br>
 ● Application: Technical Knowledge and Software Familiarity; and
+<br>
 ● Design: Articulation of Concepts and Map Clarity.
 
 ## Student Learning Objectives

@@ -65,10 +65,10 @@ this course in previous semesters:
 ● GIS for the Urban Environment (Juliana Maantay and John Ziegler, 2006)
 
 ## External Hard Drive or Flash Drive
-Despite how this technology may seem near-obsolete, it is <u>required</u> that everyone have an external
+Despite how this technology may seem near-obsolete, it is <b>required</b> that everyone have an external
 storage device, such as an external hard drive or USB flash drive, for use in this class. The external
 storage device will enable you to work seamlessly on any computer that runs ArcMap, and help
-prevent loss or corruption of data. I recommend a minimum of <u>16 GB of free space</u>. The external
+prevent loss or corruption of data. I recommend a minimum of <b>16 GB of free space</b>. The external
 storage device must be brought with you to every class, starting week one.
 
 ## Grading

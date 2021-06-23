@@ -73,8 +73,14 @@ storage device must be brought with you to every class, starting week one.
 
 ## Grading
 5% – Class Participation & Preparation
+<br>
 5% – Group Case Study Presentations
+<br>
 10% – Midterm Exam
+<br>
 50% – On-Your-Own Assignments (8 in total, 4-8% each)
+<br>
 30% – Final Project (Paragraph – 5%; Proposal – 5%; Final Review – 10%; Final Report - 10%)
+<br>
 = 100% (Plus a potential 2% from Extra Credit assignment)
+

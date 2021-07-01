@@ -84,3 +84,38 @@ storage device must be brought with you to every class, starting week one.
 <br>
 = 100% (Plus a potential 2% from Extra Credit assignment)
 
+## Attendance (5%)
+All students are expected to attend both lecture (Tuesdays) and lab (Thursdays) sessions. Regular
+attendance, along with participation during pin-ups and other presentations by classmates, factors
+into the final grade. Students who will miss class due to religious holidays or other appropriate
+reasons should email the professor and TA in the first week of classes with the dates (and reasons) of
+their foreseen absences and are encouraged to make arrangements with their peers for notes.
+Students with disabilities who require accommodations or academic adjustments for this course
+must either enroll in the Program for Academic Access or register with the Office of Disabilities. For
+any accommodation, the instructor must be presented with either a letter from the Assistant 
+Director of the Program for Academic Access or an Accommodations Card from the Office of
+Disabilities during the first week of classes.
+
+## Group Case Study Presentations (5%) and Midterm Exam (10%)
+Week 8 will consist of short presentations on case studies of GIS-related work of your choosing.
+These will be given in teams of two -- further details will be discussed during Week 6. The midterm
+exam will be a take-home exam which tests your understanding of the lectures, readings, and
+techniques learned in the first half of the semester. It will be uploaded at the end of Week 8 on
+March 14th and due Thursday, March 28th at 6pm. Unexcused late midterms will not be accepted.
+
+## On-Your-Own Assignments (50%)
+For the eight (8) “on-your-own” assignments, all instructions are noted, including what to upload to
+Canvas. All assignments must be submitted by 6pm (prior to the start of class) on the day the
+assignment is due. Read the instructions carefully and make sure you upload all required
+deliverables. Points will be deducted for unexcused lateness or incomplete assignments.
+
+## Final Project (30%)
+Your final project should relate in some way to the field of your declared (or planned) major. You
+can create or collect your own data with the goal of answering a research question using ArcGIS. It
+is perfectly acceptable (even encouraged) to create a project that will also be helpful for another
+class or your senior thesis. This project is intentionally broad to allow you to work on a subject that
+interests you. I recommend thinking about possible projects as soon as possible. A full assignment
+description will be distributed before the midterm.
+<br>
+There will be five deliverables for the final project:
+<br>

@@ -152,11 +152,11 @@ understand what you are doing when we cannot sit with you in front of a computer
 
 ## Weekly Schedule (subject to minor changes)
 Week 1
-Tuesday, January 22nd and Thursday, January 24th
-Lecture: Housekeeping & Introduction to GIS Mapping
+Tuesday, January 22nd and Thursday, January 24th <br>
+Lecture: Housekeeping & Introduction to GIS Mapping <br>
 In-Class Exercise: Getting familiar with ArcMap (ArcMap Tools, Scaling your Map, Identifying
 Features, Saving .MXDs, Adding & Using Map Layers, Changing Symbology, Saving Layers (.lyr),
-Auto-Labeling, Exporting to PDF or JPG)
+Auto-Labeling, Exporting to PDF or JPG) <br>
 On-Your-Own Assignment 1: due Tuesday, January 29th (by 6pm)
 <br>
 Week 2

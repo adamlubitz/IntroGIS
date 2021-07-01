@@ -129,6 +129,7 @@ project at the start of Week 10 (5% of final grade), and much of the class time 
 semester is reserved for individual guidance with the professor and TA during desk crits, where we
 can discuss developing the scope, feasibility, and possible/expected results of your project.
 <br>
+<br>
 Due to the nature of ongoing GIS work being shared between practitioners, and in the spirit of open
 data, final deliverables include a written and graphical report uploaded onto the course github
 repository (10% of final grade), along with a presentation or "review" (10% of final grade). Final 

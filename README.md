@@ -259,7 +259,62 @@ work presented must match what you submitted or points will be deducted. <br>
 **Final Reports to be uploaded to Canvas by Friday, May 10th at 6pm.**
 
 ## Additional Resources
-GIS Tutorials from the Center for Spatial Research - https://github.com/adamlubitz/gis_tutorials
-<br>Created by Juan Saldarriaga, these tutorials cover a comprehensive set of skills involving
-downloading and exporting GIS data, particularly for use in other software packages.
-
+GIS Tutorials from the Center for Spatial Research - https://github.com/adamlubitz/gis_tutorials <br>
+Created by Juan Saldarriaga, these tutorials cover a comprehensive set of skills involving
+downloading and exporting GIS data, particularly for use in other software packages. <br>
+<br>
+Barnard Empirical Reasoning Center (ERC) - https://erc.barnard.edu <br>
+Located in Milstein 102, this should be your go-to for any GIS-related questions outside of class. <br>
+<br>
+Digital Social Science Center (DSSC) - http://library.columbia.edu/locations/dssc.html <br>
+Located in the Lehman Library basement, DSSC is a great resource for GIS data and technical
+questions. DSSC collects GIS data that you can use for your final projects or other GIS work beyond
+this course. They also provide technical consultations for acquiring data and using ArcGIS. <br>
+<br>
+ESRI User Forum - https://community.esri.com/community/discussions-lobby <br>
+The ESRI user forum is also a great resource for technical GIS software questions. <br>
+<br>
+American Community Survey (ACS) Dataset References <br>
+US Census Bureau. 2009. “A Compass for Understanding and Using American Community
+Survey Data: What Researchers Need to Know.” US Department of Commerce.
+Economics and Statistics Administration. <br>
+---. 2009. “A Compass for Understanding and Using American Community Survey Data:
+What State and Local Governments Need to Know.” US Department of Commerce.
+Economics and Statistics Administration. <br>
+<br>
+Example Research on Planning Topics <br>
+Drewnowski, A, et al. 2014. “Food Environment and Socioeconomic Status Influence Obesity
+Rates in Seattle and in Paris.” In International Journal of Obesity. 38(2): 306-314. <br>
+Erenstein, Olaf, Jon Hellin, Parvesh Chandna. 2010. “Poverty Mapping Based on Livelihood
+Assets: A Meso-level Application in the Indo-Gangetic Plains, India.” In Applied
+Geography. 30(1): 112-125. <br>
+Jones, Ken and Tony Hernandez. 2004. “Chapter 2. Retail Applications of Spatial Modelling.”
+In J. Stillwell and G Clarke (eds). Applied GIS and Spatial Analysis. New York: John Wiley
+& Sons, 11-33. <br>
+McEntee, Jesse and Julian Agyeman. 2010. “Towards the Development of a GIS Method for
+Identifying Rural Food Deserts: Geographic Access in Vermont, USA.” In Applied
+Geography. 30(1): 165-176. <br>
+Rogerson, P and Y Sun. 2001. “Spatial Monitoring of Geographic Patterns: An Application to
+Crime Analysis.” In Computers, Environment and Urban Systems. 25(6): 539-556. <br>
+Rylatt, M, S Gadsden, and K Lomas. 2001. “GIS-based Decision Support for Solar Energy
+Planning in Urban Environments.” In Computers, Environment, and Urban Systems.
+25(6): 579-603. <br>
+Rybarczyk, Greg and Changshan Wu. 2010. “Bicycle Facility Planning Using GIS and Multi-
+Criteria Decision Analysis.” In Applied Geography. 30(2): 282-293. <br>
+Sudhira, H S, T V Ramachandra, and K S Jagadish. 2004. “Urban Sprawl: Metrics, Dynamics,
+and Modelling Using GIS.” In International Journal of Applied Earth Observation and
+Geoinformation. 5(1): 29-39. <br>
+<br>
+Mapping, GIS, and Data Visualization <br>
+Center for Spatial Research, Columbia University Graduate School of Architecture, Planning, and
+Preservation. http://c4sr.columbia.edu/ <br>
+MacEachran, Alan. 1995. How Maps Work: Representation, Visualization, and Design. New
+York: The Guilford Press. <br>
+Slocum, Terry. 1999. Thematic Cartography and Visualization. Upper Saddle River, NJ:
+Prentice Hall. <br>
+Snyder, John. 1982. Map Projections Used by the US Geological Survey: Geological Survey
+Bulletin 1532. Washington, DC: US Government Printing Office. <br>
+Tufte, Edward. 1986. The Visual Display of Quantitative Information. Cheshire, CT: Graphics
+Press. <br>
+---. 1990. Envisioning Information: Narratives of Space and Time. Cheshire, CT: Graphics
+Press. <br>

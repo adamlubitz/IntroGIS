@@ -116,6 +116,25 @@ is perfectly acceptable (even encouraged) to create a project that will also be 
 class or your senior thesis. This project is intentionally broad to allow you to work on a subject that
 interests you. I recommend thinking about possible projects as soon as possible. A full assignment
 description will be distributed before the midterm.
+<br> <br>
+There will be five deliverables for the final project: <br>
+Topic paragraph, detailing scope and data sources for the project (5%) - Tuesday, April 2nd <br>
+Proposal with revised paragraph and methods summary (5%) - Thursday, April 11th <br>
+Maps (pin-up, part of your participation grade) - April 16th and 18th <br>
+Final review (10%) - April 30th and May 2nd <br>
+Final report deliverable uploaded onto github for sharing (10%) - due Friday, May 10th by 6pm <br>
 <br>
-There will be five deliverables for the final project:
+Students are required to submit a topic paragraph with data sources prior to carrying out the
+project at the start of Week 10 (5% of final grade), and much of the class time toward the end of the
+semester is reserved for individual guidance with the professor and TA during desk crits, where we
+can discuss developing the scope, feasibility, and possible/expected results of your project.
 <br>
+Due to the nature of ongoing GIS work being shared between practitioners, and in the spirit of open
+data, final deliverables include a written and graphical report uploaded onto the course github
+repository (10% of final grade), along with a presentation or "review" (10% of final grade). Final 
+presentations will be given before a panel of invited guests (TBD) for feedback to be incorporated in
+the final report. They will be divided into two sessions, April 30th and May 2nd. PDFs of your final
+presentations must be submitted on Canvas by 5pm before the earlier session on April 30th in order
+to ensure fairness for all students.
+
+## Professor and TA

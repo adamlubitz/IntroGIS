@@ -151,27 +151,35 @@ we don’t tell you to do what you’ve already done), and any necessary screens
 understand what you are doing when we cannot sit with you in front of a computer.
 
 ## Weekly Schedule (subject to minor changes)
-Week 1
+Week 1 <br>
 Tuesday, January 22nd and Thursday, January 24th <br>
 Lecture: Housekeeping & Introduction to GIS Mapping <br>
 In-Class Exercise: Getting familiar with ArcMap (ArcMap Tools, Scaling your Map, Identifying
 Features, Saving .MXDs, Adding & Using Map Layers, Changing Symbology, Saving Layers (.lyr),
 Auto-Labeling, Exporting to PDF or JPG) <br>
-On-Your-Own Assignment 1: due Tuesday, January 29th (by 6pm)
+On-Your-Own Assignment 1: due Tuesday, January 29th (by 6pm) <br>
 <br>
-Week 2
-Tuesday, January 29th and Thursday, January 31st
-Lecture: Collecting & Assessing Data for GIS
+Week 2 <br>
+Tuesday, January 29th and Thursday, January 31st <br>
+Lecture: Collecting & Assessing Data for GIS <br>
 In-Class Exercise: Starting a New Map, Managing GIS Files, and Working with Existing GIS Data
 (Using ArcCatalog, Adding Data, Selecting Features, Querying Data, Working with Attributes -
-Selecting by Attributes/by Location, Creating New Layers, Creating a Layout & Labeling)
-On-Your-Own Assignment 2: due Tuesday, February 5th
+Selecting by Attributes/by Location, Creating New Layers, Creating a Layout & Labeling) <br>
+On-Your-Own Assignment 2: due Tuesday, February 5th <br>
 <br>
-Week 3
-Tuesday, February 5th and Thursday, February 7th
-Lecture: Qualitative and Quantitative Maps, Classifying Data
-In-Class Exercise: Creating Thematic Maps (Classifying Data)
-On-Your-Own Assignment 3: due Tuesday, February 12th
+Week 3 <br>
+Tuesday, February 5th and Thursday, February 7th <br>
+Lecture: Qualitative and Quantitative Maps, Classifying Data <br>
+In-Class Exercise: Creating Thematic Maps (Classifying Data) <br>
+On-Your-Own Assignment 3: due Tuesday, February 12th <br>
 Reading: Basic GIS Methods of Analysis and Software Functionality – Chapter 1 (pgs 29-45) –
 Mapping Global Cities (Ayse Pamuk), answer question on On-Your-Own 3, due Tuesday, February
-12th.
+12th. <br>
+<br>
+Week 4 <br>
+Tuesday, February 12th and Thursday, February 14th <br>
+Lecture: Map Projections and Coordinate Systems <br>
+In-Class Exercise: Modifying Attribute Tables, Joining and Editing GIS Data (by Attributes &
+Spatially), Creating Centroids from Polygons <br>
+On-Your-Own Assignment 4: due Tuesday, February 19th <br>
+<br>

@@ -183,3 +183,83 @@ In-Class Exercise: Modifying Attribute Tables, Joining and Editing GIS Data (by 
 Spatially), Creating Centroids from Polygons <br>
 On-Your-Own Assignment 4: due Tuesday, February 19th <br>
 <br>
+Week 5 <br>
+Tuesday, February 19th and Thursday, February 21st <br>
+Lecture: Map Design <br>
+In-Class Exercise: Editing Metadata, Downloading Data, Prepping an Excel Spreadsheet for Joining
+and Joining U.S. Census Data <br>
+On-Your-Own Assignment 5: due Tuesday, February 26th <br>
+Reading: “Make Maps People Want to Look At,” by Aileen Buckley for ArcUser (Winter 2012) <br>
+<br>
+Week 6 <br>
+Tuesday, February 26th and Thursday, February 28th <br>
+Lecture: Creating and Editing Shapefiles <br>
+In-Class Exercise: Editing Vector Data (Points, Polygons & Lines) <br>
+On-Your-Own Assignment 6: due Tuesday, March 5th <br>
+Group Case Study Presentations assignment description distributed - due March 12th <br>
+<br>
+Week 7 <br>
+Tuesday, March 5th and Thursday, March 7th <br>
+Lecture: Map Projections & Georeferencing <br>
+In-Class Exercise: Map Projections, Georeferencing Historic Maps and other Raster Images <br>
+<br>
+Week 8 <br>
+Tuesday, March 12th and Thursday, March 14th <br>
+<b>Group Case Study Presentations by Students</b> <br>
+Discussion: Midterm Exam and Final Project descriptions distributed on March 14th
+Take-Home Midterm Exam: Testing your knowledge of the GIS concepts and techniques discussed
+during lectures and in-class exercises - due Thursday, March 28th <br>
+<br>
+<b>SPRING BREAK – NO CLASS</b><br>
+<br>
+Week 9 <br>
+Tuesday, March 26th and Thursday, March 28th <br>
+In-Class Exercise: Geoprocessing Techniques (Merging, Appending, Clipping, Dissolving,
+Intersections, Buffering, and Spatial Joining) <br>
+Assignments (due next class): <br>
+On-Your-Own Assignment 7: due Tuesday, April 2nd <br>
+Final Project Paragraph: Draft a final project paragraph and upload to Canvas. Based on comments
+from the professor and TA, you will then have a chance to revise your paragraph and include it as
+part of your proposal. Deliverable: No more than one single-sided page discussing scope and data
+sources – due Tuesday, April 2nd <br>
+**Be prepared to discuss and begin working on your final projects during the next class** <br>
+<br>
+Week 10 <br>
+Tuesday, April 2nd and Thursday, April 4th <br>
+Final Project Discussions and Development / In-Class Working Session with Desk Crits
+Assignments (due next class): <br>
+On-Your-Own Assignment 8: Geocoding - due Tuesday, April 9th <br>
+Final Project Proposal: Based on our in-class discussions, refine your final project paragraph and
+resubmit next week as part of the proposal and methods summary. Deliverable: No more than two
+pages – due Thursday, April 11th <br>
+<br>
+Week 11 <br>
+Tuesday, April 9th and Thursday, April 11th <br>
+TBD Guest Lecture: Web Mapping <br>
+In-Class Exercise: Web Mapping / KML Files and ArcMap / ArcGIS Online Story Mapping <br>
+Extra Credit: KML Conversion Map and Story Map – due April 23rd <br>
+Open lab time for working on Final Projects <br>
+<br>
+Week 12 <br>
+Tuesday, April 16th and Thursday, April 18th <br>
+Final Project Pin-up: Briefly present progress of final project to class <br>
+<br>
+Week 13
+Tuesday, April 23rd and Thursday, April 25th <br>
+Lecture: Github course repository <br>
+In-Class-Exercise: Digital Photos as GPS / Hyperlinking in ArcMap / Map Animations / 3D GIS <br>
+Open lab time for working on Final Projects <br>
+<br>
+Week 14 <br>
+Tuesday, April 30th and Thursday, May 2nd <br>
+Final Review: Student presentations will be split evenly between Tuesday and Thursday sections,
+but all students must upload their slides to Canvas by 5pm on Tuesday, April 30th. Remember, all
+work presented must match what you submitted or points will be deducted. <br>
+<br>
+**Final Reports to be uploaded to Canvas by Friday, May 10th at 6pm.**
+
+## Additional Resources
+GIS Tutorials from the Center for Spatial Research - https://github.com/adamlubitz/gis_tutorials
+<br>Created by Juan Saldarriaga, these tutorials cover a comprehensive set of skills involving
+downloading and exporting GIS data, particularly for use in other software packages.
+

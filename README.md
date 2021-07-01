@@ -139,3 +139,39 @@ presentations must be submitted on Canvas by 5pm before the earlier session on A
 to ensure fairness for all students.
 
 ## Professor and TA
+The TA will attend the lab sessions on Thursdays and be responsible for providing assistance on
+in-class and on-your-own assignments throughout the semester, as well as feedback on final
+projects. In addition to office hours, students may contact the professor or the TA via email, and we
+will do our best to respond to your emails promptly. However, since time management is a vital skill,
+please do not rely on the night before due dates to email questions. If you email a technical question
+to the professor and/or TA, be sure to include enough information for us to best help you, including
+a detailed description of what you are trying to accomplish and the problem you are encountering,
+any relevant information regarding the data sets you are using, the steps you have already taken (so
+we don’t tell you to do what you’ve already done), and any necessary screenshots to help us
+understand what you are doing when we cannot sit with you in front of a computer.
+
+## Weekly Schedule (subject to minor changes)
+Week 1
+Tuesday, January 22nd and Thursday, January 24th
+Lecture: Housekeeping & Introduction to GIS Mapping
+In-Class Exercise: Getting familiar with ArcMap (ArcMap Tools, Scaling your Map, Identifying
+Features, Saving .MXDs, Adding & Using Map Layers, Changing Symbology, Saving Layers (.lyr),
+Auto-Labeling, Exporting to PDF or JPG)
+On-Your-Own Assignment 1: due Tuesday, January 29th (by 6pm)
+<br>
+Week 2
+Tuesday, January 29th and Thursday, January 31st
+Lecture: Collecting & Assessing Data for GIS
+In-Class Exercise: Starting a New Map, Managing GIS Files, and Working with Existing GIS Data
+(Using ArcCatalog, Adding Data, Selecting Features, Querying Data, Working with Attributes -
+Selecting by Attributes/by Location, Creating New Layers, Creating a Layout & Labeling)
+On-Your-Own Assignment 2: due Tuesday, February 5th
+<br>
+Week 3
+Tuesday, February 5th and Thursday, February 7th
+Lecture: Qualitative and Quantitative Maps, Classifying Data
+In-Class Exercise: Creating Thematic Maps (Classifying Data)
+On-Your-Own Assignment 3: due Tuesday, February 12th
+Reading: Basic GIS Methods of Analysis and Software Functionality – Chapter 1 (pgs 29-45) –
+Mapping Global Cities (Ayse Pamuk), answer question on On-Your-Own 3, due Tuesday, February
+12th.
